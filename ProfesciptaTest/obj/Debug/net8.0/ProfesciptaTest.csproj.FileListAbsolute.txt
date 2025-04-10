@@ -136,3 +136,4 @@ D:\syahrul\repository\Profescipta\ProfesciptaTest\obj\Debug\net8.0\refint\Profes
 D:\syahrul\repository\Profescipta\ProfesciptaTest\obj\Debug\net8.0\ProfesciptaTest.pdb
 D:\syahrul\repository\Profescipta\ProfesciptaTest\obj\Debug\net8.0\ProfesciptaTest.genruntimeconfig.cache
 D:\syahrul\repository\Profescipta\ProfesciptaTest\obj\Debug\net8.0\ref\ProfesciptaTest.dll
+D:\syahrul\repository\Profescipta\ProfesciptaTest\obj\Debug\net8.0\ProfesciptaTest.sourcelink.json

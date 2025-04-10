@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LDbizmVo0Od5E5/yyDCbiMHix+/CT+T4FymKMxsAyzk=",
+  "Hash": "vxKRO223vPxItTeBPsc5LhQxGyGgIMjzop+mDan28zU=",
   "Source": "ProfesciptaTest",
   "BasePath": "_content/ProfesciptaTest",
   "Mode": "Default",
@@ -186,25 +186,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\CreateSalesOrder.js"
-    },
-    {
-      "Identity": "D:\\syahrul\\repository\\Profescipta\\ProfesciptaTest\\wwwroot\\js\\CreateSalesOrder1.js",
-      "SourceId": "ProfesciptaTest",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\syahrul\\repository\\Profescipta\\ProfesciptaTest\\wwwroot\\",
-      "BasePath": "_content/ProfesciptaTest",
-      "RelativePath": "js/CreateSalesOrder1.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\CreateSalesOrder1.js"
     },
     {
       "Identity": "D:\\syahrul\\repository\\Profescipta\\ProfesciptaTest\\wwwroot\\js\\EditSalesOrder.js",

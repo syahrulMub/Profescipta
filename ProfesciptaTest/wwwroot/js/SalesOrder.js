@@ -30,7 +30,11 @@ $(document).ready(function () {
       },
       { data: "soOrderId", visible: false },
       { data: "orderNo", title: "Sales Order" },
-      { data: "orderDate", title: "Order Date" },
+      { data: "orderDate", title: "Order Date",   render: function (data, type, row) {
+        if (!data) return "";
+        return moment(data).format("DD/MM/YYYY");
+      },
+      },
       { data: "customerName", title: "Customer Name" },
     ],
     responsive: true,
